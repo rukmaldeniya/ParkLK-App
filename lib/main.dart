@@ -45,13 +45,6 @@ class View extends StatelessWidget {
   }
 }
 
-class Slots extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Text('d');
-  }
-}
-
 class Parking extends StatefulWidget {
   @override
   _ParkingState createState() => _ParkingState();
