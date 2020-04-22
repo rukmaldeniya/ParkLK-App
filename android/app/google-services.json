@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "610767984527",
+    "firebase_url": "https://parklk.firebaseio.com",
+    "project_id": "parklk",
+    "storage_bucket": "parklk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610767984527:android:2a89073d2becd3c7955dfa",
+        "android_client_info": {
+          "package_name": "com.rukmaldeniya.parklk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610767984527-j6bnnoloerea6bddovqh4lkpholj548r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6XUfGA3glDSZZgv_l-oPEUsjk8dSBag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610767984527-j6bnnoloerea6bddovqh4lkpholj548r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
